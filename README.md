@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Dzenis Bronja</h1>
 <h3 align="center">A passionate frontend developer from Serbia</h3>
-<img align="right" alt="Coding" width="400" src="C:\Users\Dzeno\Downloads\how-to-start.gif"/>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dzenisbronja&label=Profile%20views&color=0e75b6&style=flat" alt="dzenisbronja" /> </p>
 
