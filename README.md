@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg?w=680)
+![MasterHead](https://media.istockphoto.com/id/1301222734/vector/less-programming-language-coding-banner.jpg?s=170667a&w=0&k=20&c=GVEwcFc4iba1Q-N5OZSWy3NmBk99cB-aryf-wJQTT2o=)
 
 <h1 align="center">Hi 👋, I'm Dzenis Bronja</h1>
 <h3 align="center">A passionate frontend developer from Serbia</h3>
